@@ -1,0 +1,23 @@
+
+/* Navigation */
+#navbar{
+flex-direction: column;
+}
+/* Home Section  */
+#home{
+
+}
+/* Services Section  */
+#services{
+    flex-direction: column;
+}
+#services .box{
+    /* flex-direction: column; */
+}
+/* Cleints Section  */
+#cleints{
+    overflow: hidden;
+}
+/* Contact us Section  */
+
+/* Footer  */
